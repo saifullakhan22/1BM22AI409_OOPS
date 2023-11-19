@@ -1,8 +1,5 @@
 def largest(l):
-    largest = 0 
-    for i in l:
-        if i>largest:
-            largest = i
+    largest = max(l)
     print(largest)
 
 l =[2,3,4,1,5,9,45,5,8]        
