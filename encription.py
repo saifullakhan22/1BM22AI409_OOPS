@@ -25,4 +25,4 @@ print("Original ------>",org_txt)
 en = encript(org_txt,21)
 print("Encripted ----->",en)
 txt = decript(en,21)
-print("Decripted ----->",txt)
+print("Decripted ----->",txt),
